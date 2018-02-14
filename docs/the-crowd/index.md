@@ -1,3 +1,5 @@
+#一个中国人是条龙，一群中国人是摊虫#
+
 ![乌合之众](the-crowd.jpg)
 
 《乌合之众》【法】[古斯塔夫·勒庞](http://baike.baidu.com/item/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E "古斯塔夫·勒庞")著，[冯克利](http://baike.baidu.com/item/%E5%86%AF%E5%85%8B%E5%88%A9 "冯克利")译，[中央编译出版社](http://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E7%BC%96%E8%AF%91%E5%87%BA%E7%89%88%E7%A4%BE "中央编译出版社")
