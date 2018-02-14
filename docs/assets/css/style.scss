@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-text-indent:2em;
 section {
+  text-indent:2em;
   font-size:20px;
+}
+img {
+  display: block;
 }
